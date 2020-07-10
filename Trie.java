@@ -1,7 +1,4 @@
-/* Name: Eldyn Castillo
- * Date: 04/28/2020
- * Class: CS3345.502
- */
+
 
 import java.util.ArrayList;
 
